@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanchan
-- 👀 I’m interested in web technologies like JavaScript,CSS,React,MongoDB and Docker
+- 👀 I’m interested in web technologies like JavaScript,CSS,React,node.js,Express,MongoDB and Docker
 - 🌱 I’m currently learning AWS Cloud Computing
 
 - 📫 You can reach me at Kanchan521986@gmail.com
