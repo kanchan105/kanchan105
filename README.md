@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @kanchan
-- 👀 I’m interested in web technologies like JavaScript,CSS,React,Express,MongoDB and Docker
+- 👋 Hi, I’m @kanchan.I'm a passionate full stack developer with a keen interest in creating robust and user-friendly web applications.
+-  My expertise lies in both frontend and backend technologies, and I enjoy working on projects that challenge my problem-solving skills.
+- 👀 I’m interested in web technologies like JavaScript,CSS,React,Express,MongoDB and Docker.
 - 🌱 I’m currently learning ASP.net Core MVC
 
 - 📫 You can reach me at Kanchan521986@gmail.com
